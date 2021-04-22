@@ -1,0 +1,7 @@
+Project Description: 
+
+2021 Shrink forecast 
+
+Inventory shrinkage is a challenge that all retailers face. Understanding when and how much shrink is going to occur in the future can help companies know where to focus their mitigation efforts. Stores take inventory once per year, which leaves a large information gap throughout the year. Creating a robust forecast that factors in the many drivers of shrink will help to fill this information gap and allow Home Depot to better allocate its resources.
+At the moment, Home Depot relies on a modeling framework that predicts shrink on an ongoing basis using the most current data. However, this leaves stores without knowledge of what may happen between today and the 3, 6, or 9 months leading up to the inventory. By extending the current model into a forecast, or by using other modeling methods to anticipate future trends, it will be possible to understand how past data trends will translate into total shrink at the end of an inventory.
+Home Depot has a large amount of data available that can be used for this exercise. Additionally, pilots are constantly being tested and then rolled out to evaluate shrink impacts. Factoring in the impacts of these pilots, identifying the most important variables to forecast, and creating a powerful forecast engine, presents a vast and highly complex problem that an AI driven model can help to answer.
